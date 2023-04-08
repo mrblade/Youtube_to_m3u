@@ -2,5 +2,8 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Chardikla Time TV | Entertainment | https://i0.wp.com/ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-792-j5m75dww-v1/imageContent-792-j5m75dww-m1.png |
+Chardikla Time TV | Entertainment | https://i0.wp.com/ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-792-j5m75dww-v1/imageContent-792-j5m75dww-m1.png | 193
 https://www.youtube.com/channel/UCIFe2_i2p_cBgWrPUyIA76g/live
+
+News18 India | News | https://i0.wp.com/ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-339-j5jm6kko-v1/imageContent-339-j5jm6kko-m1.png | 106
+https://www.youtube.com/watch?v=jTc5NN19qYs

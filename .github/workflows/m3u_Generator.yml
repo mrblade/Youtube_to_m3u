@@ -4,8 +4,12 @@ name: M3U generator
 
 # Controls when the action will run. 
 on:
-  schedule:
-    - cron: '0 0/3 * * *'
+  #schedule:
+    #- cron: '0 0/3 * * *'
+  # Allows external webhook trigger
+  repository_dispatch:
+    types:
+      - cron_webhook
 
   pull_request:
     branches:
